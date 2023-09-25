@@ -38,3 +38,4 @@ The source code for this MCMC sampler can be found in the Julia module `mcmc` in
 - Gu Gong
 
 Feel free to modify this README to include additional information or customize it to your needs. This README is intended to help users understand how to use the generated executable file.
+
